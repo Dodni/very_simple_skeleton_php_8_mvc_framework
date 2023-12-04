@@ -17,5 +17,15 @@ class TestModel {
         // Visszatérési érték a kapcsolat állapotával
         return $connection;
     }
+
+    public function connectOtherWay() {
+        Database::connect();
+        $users = [];
+        $result = Database::$connection->query("select * from users");
+        while ($row = $result->fetch_assoc()) {
+            $users[] = $row;
+        }
+        return $users;
+    }
 }
 ?>

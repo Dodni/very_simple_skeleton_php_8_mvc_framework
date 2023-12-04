@@ -1,1 +1,1 @@
-<header><p>Ez itt a header</p></header>
+<header><p>Header</p></header>

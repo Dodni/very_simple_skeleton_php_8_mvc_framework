@@ -1,12 +1,11 @@
 <!-- home_controller.php -->
 
 <?php
-include_once 'app/models/test_model.php';
-class HomeController {
-    public function showHomePage() {
+class AboutController {
+    public function showAboutPage() {
         
         // Az elérési út a home_view.php fájlhoz
-        $viewPath = 'app/views/home_view.php';
+        $viewPath = 'app/views/about_view.php';
         
         // Ellenőrizzük, hogy a fájl létezik-e
         if (file_exists($viewPath)) {
@@ -16,18 +15,14 @@ class HomeController {
             echo "A megadott nézetfájl nem található.";
         }
         
-        $testModel = new TestModel();
+
         
-        $testModel->connectToDatabase();
-        $testModel->connectOtherWay();
     }
 }
 
 // Példányosítjuk a HomeController osztályt
-$controller = new HomeController();
+$controller = new AboutController();
 
 // Meghívjuk a showHomePage() metódust a HomeController-ből
-$controller->showHomePage();
-
-
+$controller->showAboutPage();
 ?>

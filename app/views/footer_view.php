@@ -1,2 +1,2 @@
 <!-- footer.php -->
-<footer><p>Ez itt a footer</p></footer>
+<footer><p>Footer</p></footer>

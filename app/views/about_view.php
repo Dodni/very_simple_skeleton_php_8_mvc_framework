@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Home page</title>
+    <title>About</title>
 </head>
 <?php include_once 'header_view.php'; ?>
 <body>
-    <h1>Home page</h1>
-    <a href="<?php echo BASE_URL;?>about">About</a><br>
+    <h1>About page</h1>
+    <a href="<?php echo BASE_URL;?>home">Home</a><br>
     <a href="<?php echo BASE_URL;?>contact">Contact</a>
 </body>
 <?php include_once 'footer_view.php'; ?>
