@@ -11,9 +11,6 @@ class TestModel {
             echo "Sikeresen kapcsolódva az adatbázishoz!";
         }
 
-        // Var_dump a kapcsolat állapotával
-        // var_dump($connection);
-
         // Visszatérési érték a kapcsolat állapotával
         return $connection;
     }

@@ -1,3 +1,3 @@
 <?php
-include 'init.php';
+    include 'init.php';
 ?>
