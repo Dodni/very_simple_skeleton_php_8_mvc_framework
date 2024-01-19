@@ -8,7 +8,6 @@ $routes = [
 ];
 
 // Ellenőrizze, hogy létezik-e a kívánt útvonal
-#var_dump($_SERVER);
 $requestURI = $_SERVER['REQUEST_URI'];
 
 if (array_key_exists($requestURI, $routes)) {
