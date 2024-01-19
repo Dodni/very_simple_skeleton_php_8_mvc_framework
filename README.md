@@ -7,15 +7,8 @@
 
 # Directory structure:
 
-Certainly! Here's the Markdown code for your README.md file:
-
-markdown
-Copy code
-# Project Directory Structure
-
-The directory structure of the `qr_kod_app` project is organized as follows:
 ```
-qr_kod_app/ 
+very_simple_skeleton_php_8_mvc_framework/ 
 ├── app/ 
 │   └── controllers/ 
 │       └── nev_controller.php
