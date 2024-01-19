@@ -58,6 +58,3 @@ very_simple_skeleton_php_8_mvc_framework/
 - **init.php**: Initialization script.
 - **route.php**: Routing configuration.
 - **.htaccess**: Apache server configuration.
-
-Feel free to adjust the descriptions and details based on your project's specific structure and content.
-
