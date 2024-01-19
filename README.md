@@ -7,7 +7,7 @@
 
 # Directory structure:
 ```
-very_simple_skeleton_php_8_mvc_framework/ 
+mvc/ 
 ├── app/ 
 │   └── controllers/ 
 │       └── about_controller.php
