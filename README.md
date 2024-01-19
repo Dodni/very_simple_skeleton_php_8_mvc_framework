@@ -14,7 +14,7 @@ mvc/
 │       └── contact_controller.php
 │       └── home_controller.php
 │   └── javascript/
-│       └── nev.js 
+│       └── test.js
 │   └── models/ 
 │       └── test_model.php 
 │   └── views/ 
