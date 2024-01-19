@@ -6,22 +6,27 @@
 3. Change the database and the BASE_URL in the config.php file.
 
 # Directory structure:
-
 ```
 very_simple_skeleton_php_8_mvc_framework/ 
 ├── app/ 
 │   └── controllers/ 
-│       └── nev_controller.php
+│       └── about_controller.php
+│       └── contact_controller.php
+│       └── home_controller.php
 │   └── javascript/
 │       └── nev.js 
 │   └── models/ 
-│       └── nev_model.php 
+│       └── test_model.php 
 │   └── views/ 
-│       └── nev_view.php 
+│       └── about_view.php 
+│       └── contact_view.php 
+│       └── footer_view.php 
+│       └── header_view.php 
+│       └── home_view.php 
 ├── public/ 
 │   └── css/ 
 │   └── img/ 
-│   └── production_images/ 
+│   └── production_images/
 ├── system/ 
 │   └── config.php 
 │   └── database.php 
@@ -30,6 +35,7 @@ very_simple_skeleton_php_8_mvc_framework/
 ├── route.php 
 └── .htaccess
 ```
+
 ## Description
 
 - **app**: Contains the main application files.
