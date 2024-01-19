@@ -14,27 +14,27 @@ Copy code
 # Project Directory Structure
 
 The directory structure of the `qr_kod_app` project is organized as follows:
-```
-qr_kod_app/
-├── app/
-│ └── controllers/
-│ └── nev_controller.php
-│ └── javascript/
-│ └── nev.js
-│ └── models/
-│ └── nev_model.php
-│ └── views/
-│ └── nev_view.php
-├── public/
-│ └── css/
-│ └── img/
-│ └── production_images/
-├── system/
-│ └── config.php
-│ └── database.php
-├── index.php
-├── init.php
-├── route.php
+```html
+qr_kod_app/ <br>
+├── app/ <br>
+│   └── controllers/ <br>
+│       └── nev_controller.php <br>
+│   └── javascript/ <br>
+│       └── nev.js <br>
+│   └── models/ <br>
+│       └── nev_model.php <br>
+│   └── views/ <br>
+│       └── nev_view.php <br>
+├── public/ <br>
+│   └── css/ <br>
+│   └── img/ <br>
+│   └── production_images/ <br>
+├── system/ <br>
+│   └── config.php <br>
+│   └── database.php <br>
+├── index.php <br>
+├── init.php <br>
+├── route.php <br>
 └── .htaccess
 ```
 ## Description
