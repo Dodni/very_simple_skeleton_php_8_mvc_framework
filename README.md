@@ -14,7 +14,7 @@ Copy code
 # Project Directory Structure
 
 The directory structure of the `qr_kod_app` project is organized as follows:
-
+```
 qr_kod_app/
 ├── app/
 │ └── controllers/
@@ -36,7 +36,7 @@ qr_kod_app/
 ├── init.php
 ├── route.php
 └── .htaccess
-
+```
 ## Description
 
 - **app**: Contains the main application files.
