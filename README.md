@@ -24,7 +24,8 @@ very_simple_skeleton_php_8_mvc_framework/
 │       └── header_view.php 
 │       └── home_view.php 
 ├── public/ 
-│   └── css/ 
+│   └── css/
+│       └── style.css 
 │   └── img/ 
 │   └── production_images/
 ├── system/ 
