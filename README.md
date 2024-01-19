@@ -6,26 +6,35 @@
 3. Change the database and the BASE_URL in the config.php file.
 
 # Directory structure:
+
+Certainly! Here's the Markdown code for your README.md file:
+
+markdown
+Copy code
+# Project Directory Structure
+
+The directory structure of the `qr_kod_app` project is organized as follows:
+
 qr_kod_app/
 ├── app/
-│     └── controllers/
-│           └── nev_controller.php
-│     └── javascript/
-│           └── nev.js
-│     └── models/
-│          └── nev_model.php
-│     └──   views/
-│           └── nev_view.php
+│ └── controllers/
+│ └── nev_controller.php
+│ └── javascript/
+│ └── nev.js
+│ └── models/
+│ └── nev_model.php
+│ └── views/
+│ └── nev_view.php
 ├── public/
-│       └── css/
-│       └── img/
-│       └── production_images/
+│ └── css/
+│ └── img/
+│ └── production_images/
 ├── system/
-│       └── config.php
-│       └── database.php
-└── index.php
-└── init.php
-└── route.php
+│ └── config.php
+│ └── database.php
+├── index.php
+├── init.php
+├── route.php
 └── .htaccess
 
 ## Description
