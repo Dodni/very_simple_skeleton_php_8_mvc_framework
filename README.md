@@ -6,9 +6,9 @@
 3. IMPORTANT! Set up your database and change the BASE_URL to yours in the config.php file.
 
 # Creating a New View: 
-1. Create a new Controller first. You have to use the _controller.php tag always. It won't work without it. Example: test_controller.php
+1. Create a new Controller first into the controllers folder. You have to use the _controller.php tag always. It won't work without it. Example: test_controller.php
 2. Copy the other controller code and change the class name to your new controller name
-3. Create a new View on the same name as the new Controller. Add some text into it like "Hello World"
+3. Create a new View in the views folder on the same name as the new Controller. Use the _view.php tag in the end. Add some text into it like "Hello World"
 4. Change the $viewPath in the Controller to your new view's path
 5. Add a new route in the route.php. Example: '/mvc/test' => 'test_controller.php'
 6. Done. Let's try it out!
