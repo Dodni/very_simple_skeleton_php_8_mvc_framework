@@ -1,4 +1,4 @@
-# Very simple skeleton php 8 mvc framewrok
+# Very simple skeleton php 8 mvc framework
 
 # Install:
 1. Clone or download the project.
