@@ -13,6 +13,8 @@
 5. Add a new route in the route.php. Example: '/mvc/test' => 'test_controller.php'
 6. Done. Let's try it out!
 
+# Creating a New Controller:
+# Creating a New Model:
 # Creating a New Route:
 
 # Directory structure:
