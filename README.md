@@ -20,8 +20,13 @@
 6. Done. Let's try it out!
 
 # Creating a New Controller:
+coming soon..
+
 # Creating a New Model:
+coming soon..
+
 # Creating a New Route:
+coming soon..
 
 # Directory structure:
 ```
