@@ -1,5 +1,11 @@
 # Very simple skeleton php 8 mvc framework
 
+![Total Downloads](https://img.shields.io/github/downloads/Dodni/very_simple_skeleton_php_8_mvc_framework/total)
+
+![Total Users](https://img.shields.io/github/forks/Dodni/very_simple_skeleton_php_8_mvc_framework?style=social)
+
+![Total Stars](https://img.shields.io/github/stars/Dodni/very_simple_skeleton_php_8_mvc_framework?style=social)
+
 # Install:
 1. Clone or download the project.
 2. IMPORTANT! Change the directory name to your project name in the .htaccess file and change the format from .htaccess.txt to .htaccess (delete the ".txt")
